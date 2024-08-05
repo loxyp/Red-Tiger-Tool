@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/languages/top/fluzyteck/RedTiger-Tools?color=a80505">
 </p>
 
-<img align="center" src="Img/RedTiger.png" width="99999px">
+<img align="center" src="[Img/RedTiger.png](https://media.discordapp.net/attachments/1269043486502555659/1270148988909125785/RedTiger.png?ex=66b2a5ed&is=66b1546d&hm=40395353ec1a832627d2dfefabcada1b97cd04bb44ec99428b91d2a4b5406696&=&format=webp&quality=lossless&width=412&height=196)" width="99999px">
 
 <p>
   <strong>All scripts in the "<a href="https://github.com/loxyteck/RedTiger-Tools/tree/main/Settings/Program/FileDetectedByAntivirus">Settings/Program/FileDetectedByAntivirus</a>" folder are detected by the antivirus but pose no     threat to you. These are not backdoors or malware.</strong>
